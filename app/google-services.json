@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "891952535840",
+    "project_id": "mockup-trajes",
+    "storage_bucket": "mockup-trajes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891952535840:android:e1f4c5c4b0dd2ec0685f45",
+        "android_client_info": {
+          "package_name": "dgtic.unam.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891952535840-9cf2vlrtohupgaq7ncj0fs0t52mp1b2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gn_fdmncbs9jj3WGxCyQEn8wvIewRvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891952535840-9cf2vlrtohupgaq7ncj0fs0t52mp1b2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891952535840-ddt3rpi11pp5th3b76g521e2f83qquo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.pinon.rodrigo.MyCheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
